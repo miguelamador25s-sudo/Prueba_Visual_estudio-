@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <mata name="viewport" content="device>-width, initial-scale=1.0">
-    <title>Prueva</title>
+    <title>Prueba</title>
 </head>
 <body bgcolor="#ffffff" fontcolor="blue">
 
@@ -31,5 +31,16 @@
 <h6> Encabezado H6</h6>
 <Center><h1>EL PARREFO SE ESCRIBE AL CENTRO</h1></Center>
     <font SIZE ="+2">TEXTO ESCRIBE</font>
+    <ul type=" circle"
+    </ul>
+    <br>
+
+    <a*name="ENLACE">Enlaces</a>*<br>
+    <a href="http://www.utj.edu.mx">Ir a chrome</a> <br>
+    <a href="paginaenlase.html">ir a pagina de prueba</a>
+    <a href="malto:ricardo.ponce@utzmj.edu.mx">Contacto</a>
+    <a href="http://www.utzmg.edu.mx"><img src="img/imagen de estrellas.png"></a>
+    
+
 <body>
 </html>
